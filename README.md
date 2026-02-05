@@ -381,3 +381,11 @@ licensed under their respective open source licenses.
 
 Use of those components is governed by the terms and conditions of their
 individual licenses, not by the Apache License 2.0 for this project.
+
+
+
+## Results
+The system successfully retrieves the most relevant document using vector similarity.
+Example:
+Query: "What is overfitting?"
+Retrieved: "Overfitting occurs when a model memorizes training data"
